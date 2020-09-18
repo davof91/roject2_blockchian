@@ -3,10 +3,11 @@
 2) Your ERC-721 Token Symbol
     - SLD
 3) Version of the Truffle and OpenZeppelin used
-    Truffle v5.1.44 (core: 5.1.44)
-    Solidity v0.5.16 (solc-js)
-    Node v14.4.0
-    Web3.js v1.2.1
+    - Truffle v5.1.44 (core: 5.1.44)
+    - Solidity v0.5.16 (solc-js)
+    - Node v14.4.0
+    - Web3.js v1.2.1
+    - openzeppelin-solidity@2.1.2
 
 Ropstein (not rinkeby) deployed. address of contract is 0x0cCD25130B403257481Abc25Fdc57946d4cDD0A3 
 
